@@ -1,6 +1,3 @@
-# new-test-repository
-a new test
+This will be the folder dedicated to the learning process of HTML markup
 
-this was the first real change
-
-LINE CHANGED FROM GITHUB
+Every weekend I'll upload small improvements done over simple index files
